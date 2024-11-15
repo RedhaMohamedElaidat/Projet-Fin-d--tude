@@ -1,4 +1,4 @@
-# Delivery Optimization App
+# Delivery Optimization App (Easy Delivery)
 
 ## Projet de Fin d'Études de Licence 2023/2024
 
